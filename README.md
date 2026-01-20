@@ -1,7 +1,7 @@
 🐢 TortoiseBot Simulation Environment (ROS 2 Jazzy)
 📌 Overview
 
-This project provides a complete simulation environment for the TortoiseBot mobile robot using ROS 2 Jazzy and Gazebo Harmonic.
+This project provides a complete simulation environment for the TortoiseBot mobile robot to follow a ball using ROS 2 Jazzy and Gazebo Harmonic.
 
 The repository includes:
 
@@ -9,6 +9,7 @@ The repository includes:
     Gazebo simulation world
     Keyboard teleoperation
     Distance from obstacles using lidar sensor
+    Following a ball using lidar
     RViz2 visualization
     Launch files for easy startup
 
