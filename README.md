@@ -1,8 +1,8 @@
 ## 🐢 TortoiseBot Simulation Environment (ROS 2 Jazzy)
 ## 📌 Overview
-
+## 🎥 Ball Following Demo
+https://youtu.be/gZi80KN-FKM?si=nEouR4yllB2tJ-Gq
 This project provides a complete simulation environment for the TortoiseBot mobile robot to follow a ball using ROS 2 Jazzy and Gazebo Harmonic.
-![Simulation](Screencast from 2026-01-20 11-50-53.mp4)
 The repository includes:
 
     URDF/Xacro-based robot description
@@ -10,7 +10,6 @@ The repository includes:
     Keyboard teleoperation
     Distance from obstacles using lidar sensor
     Following a ball using lidar
-    RViz2 visualization
     Launch files for easy startup
 
 🖥️ Prerequisites
